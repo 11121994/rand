@@ -1,0 +1,4 @@
+rand
+====
+
+gerar numeros aleatórios
